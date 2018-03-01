@@ -1,0 +1,4 @@
+Los nombres de los archivos causan problemas
+para subir los archivos a la nube, y extraerlos,
+por lo que se mantiene el archivo zip con los
+nombres originales.
