@@ -1,0 +1,618 @@
+             CAPE using virtual temperature: 10.79
+Precipitable water [mm] for entire sounding: 24.62
+             CAPE using virtual temperature: 5.88
+Precipitable water [mm] for entire sounding: 23.58
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.66
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.01
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 20.08
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 24.33
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 17.29
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.35
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.25
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.58
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 2.64
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 12.31
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.53
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 16.40
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.19
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.21
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.70
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.31
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 12.20
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 7.11
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 6.90
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 12.90
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.21
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 26.41
+             CAPE using virtual temperature: 26.03
+Precipitable water [mm] for entire sounding: 25.78
+             CAPE using virtual temperature: 15.40
+Precipitable water [mm] for entire sounding: 16.48
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 16.92
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 16.09
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.44
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 17.63
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 17.53
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 12.66
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 9.84
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.43
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.63
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 26.92
+             CAPE using virtual temperature: 56.89
+Precipitable water [mm] for entire sounding: 25.21
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 17.96
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.07
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.56
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.77
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.25
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.80
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 12.54
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 6.55
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 4.96
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 6.15
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 6.58
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 5.80
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 4.46
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 4.57
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 3.34
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 3.36
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 7.52
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.50
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 20.96
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.26
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.43
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.37
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 2.93
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.20
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 7.68
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.51
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 9.43
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 9.60
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.26
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 6.39
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.73
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.48
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 17.37
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.60
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.93
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.56
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.50
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.65
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 19.16
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.85
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 17.97
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.89
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.27
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.84
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.56
+             CAPE using virtual temperature: 3.97
+Precipitable water [mm] for entire sounding: 23.58
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 22.62
+             CAPE using virtual temperature: 43.41
+Precipitable water [mm] for entire sounding: 22.37
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 19.52
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 17.63
+             CAPE using virtual temperature: 33.41
+Precipitable water [mm] for entire sounding: 21.89
+             CAPE using virtual temperature: 25.20
+Precipitable water [mm] for entire sounding: 23.49
+             CAPE using virtual temperature: 6.00
+Precipitable water [mm] for entire sounding: 21.07
+             CAPE using virtual temperature: 244.07
+Precipitable water [mm] for entire sounding: 22.31
+             CAPE using virtual temperature: 14.30
+Precipitable water [mm] for entire sounding: 21.41
+             CAPE using virtual temperature: 95.21
+Precipitable water [mm] for entire sounding: 20.43
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 19.12
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.99
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.96
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 12.78
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.73
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 12.38
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 17.86
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 7.58
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 5.25
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 6.78
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 5.55
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 8.00
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.72
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.85
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 16.21
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.67
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 16.06
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.68
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.69
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 9.85
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 8.00
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 7.23
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.42
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.55
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.74
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 19.82
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 21.73
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.26
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 16.46
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 12.07
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 7.43
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 7.21
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.04
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.54
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.87
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.89
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 22.27
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 19.42
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 21.99
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 16.88
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 20.55
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.85
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 16.70
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.78
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.77
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.16
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.13
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.09
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.81
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.51
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.16
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.27
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.23
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 17.83
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 23.29
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.56
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 17.25
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.50
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 12.83
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 9.12
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.04
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.51
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 16.48
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 9.56
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 5.35
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 6.99
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.44
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.90
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 12.77
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 8.56
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 8.51
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.35
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.55
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 8.41
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.15
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.51
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 5.93
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 6.33
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.69
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 6.72
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 9.99
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 3.00
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 5.81
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 7.28
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.89
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.28
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.66
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.21
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.82
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.15
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 9.44
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 7.28
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 9.40
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 12.04
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.11
+             CAPE using virtual temperature: 168.44
+Precipitable water [mm] for entire sounding: 24.28
+             CAPE using virtual temperature: 63.57
+Precipitable water [mm] for entire sounding: 27.70
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 6.72
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 6.65
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.08
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 13.87
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 16.62
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 19.94
+             CAPE using virtual temperature: 74.60
+Precipitable water [mm] for entire sounding: 18.89
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 23.77
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.40
+             CAPE using virtual temperature: 2.88
+Precipitable water [mm] for entire sounding: 21.63
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 19.16
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 19.13
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.65
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 12.61
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 16.54
+             CAPE using virtual temperature: 20.73
+Precipitable water [mm] for entire sounding: 22.99
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 20.71
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 8.40
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.13
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 17.11
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 12.17
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 10.60
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.98
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.65
+             CAPE using virtual temperature: 402.49
+Precipitable water [mm] for entire sounding: 20.59
+             CAPE using virtual temperature: 50.58
+Precipitable water [mm] for entire sounding: 35.05
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 23.43
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 9.96
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 7.14
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 12.74
+             CAPE using virtual temperature: 58.58
+Precipitable water [mm] for entire sounding: 14.20
+             CAPE using virtual temperature: 287.84
+Precipitable water [mm] for entire sounding: 22.13
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.05
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.53
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 21.73
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 23.11
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 24.59
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 27.01
+             CAPE using virtual temperature: 32.86
+Precipitable water [mm] for entire sounding: 30.23
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.80
+             CAPE using virtual temperature: 838.04
+Precipitable water [mm] for entire sounding: 29.69
+             CAPE using virtual temperature: 3484.45
+Precipitable water [mm] for entire sounding: 59.92
+             CAPE using virtual temperature: 805.42
+Precipitable water [mm] for entire sounding: 59.92
+             CAPE using virtual temperature: 81.52
+Precipitable water [mm] for entire sounding: 48.39
+             CAPE using virtual temperature: 1164.55
+Precipitable water [mm] for entire sounding: 39.71
+             CAPE using virtual temperature: 147.47
+Precipitable water [mm] for entire sounding: 35.01
+             CAPE using virtual temperature: 2505.01
+Precipitable water [mm] for entire sounding: 51.53
+             CAPE using virtual temperature: 86.64
+Precipitable water [mm] for entire sounding: 61.17
+             CAPE using virtual temperature: 741.81
+Precipitable water [mm] for entire sounding: 67.77
+             CAPE using virtual temperature: 1424.43
+Precipitable water [mm] for entire sounding: 46.56
+             CAPE using virtual temperature: 579.24
+Precipitable water [mm] for entire sounding: 51.26
+             CAPE using virtual temperature: 4.91
+Precipitable water [mm] for entire sounding: 41.56
+             CAPE using virtual temperature: 1540.85
+Precipitable water [mm] for entire sounding: 50.94
+             CAPE using virtual temperature: 3184.50
+Precipitable water [mm] for entire sounding: 49.40
+             CAPE using virtual temperature: 401.65
+Precipitable water [mm] for entire sounding: 50.15
+             CAPE using virtual temperature: 2277.37
+Precipitable water [mm] for entire sounding: 50.88
+             CAPE using virtual temperature: 2164.51
+Precipitable water [mm] for entire sounding: 43.85
+             CAPE using virtual temperature: 1045.76
+Precipitable water [mm] for entire sounding: 54.06
+             CAPE using virtual temperature: 1999.69
+Precipitable water [mm] for entire sounding: 45.52
+             CAPE using virtual temperature: 4106.44
+Precipitable water [mm] for entire sounding: 45.66
+             CAPE using virtual temperature: 3609.61
+Precipitable water [mm] for entire sounding: 46.31
+             CAPE using virtual temperature: 3656.80
+Precipitable water [mm] for entire sounding: 38.44
+             CAPE using virtual temperature: 2989.92
+Precipitable water [mm] for entire sounding: 42.93
+             CAPE using virtual temperature: 3342.54
+Precipitable water [mm] for entire sounding: 57.38
+             CAPE using virtual temperature: 2926.81
+Precipitable water [mm] for entire sounding: 59.69
+             CAPE using virtual temperature: 3467.23
+Precipitable water [mm] for entire sounding: 44.29
+             CAPE using virtual temperature: 342.21
+Precipitable water [mm] for entire sounding: 34.22
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 32.59
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.84
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 11.83
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 17.25
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 19.29
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 29.46
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 32.86
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 23.55
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 27.19
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 44.07
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 48.37
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 43.87
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 27.63
+             CAPE using virtual temperature: 174.95
+Precipitable water [mm] for entire sounding: 25.39
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.07
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 30.58
+             CAPE using virtual temperature: 2.33
+Precipitable water [mm] for entire sounding: 42.25
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 44.28
+             CAPE using virtual temperature: 118.16
+Precipitable water [mm] for entire sounding: 46.06
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 38.83
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 36.23
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 34.78
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 25.16
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 17.39
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 28.84
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 19.11
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 21.13
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.87
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.17
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 14.79
+             CAPE using virtual temperature: 230.42
+Precipitable water [mm] for entire sounding: 20.17
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.17
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 12.80
+             CAPE using virtual temperature: 80.64
+Precipitable water [mm] for entire sounding: 19.64
+             CAPE using virtual temperature: 1388.06
+Precipitable water [mm] for entire sounding: 23.26
+             CAPE using virtual temperature: 651.61
+Precipitable water [mm] for entire sounding: 24.22
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 20.44
+             CAPE using virtual temperature: 73.91
+Precipitable water [mm] for entire sounding: 28.65
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 17.54
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 33.87
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 30.52
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 28.52
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 28.71
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 30.96
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 18.45
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 22.67
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 8.22
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 3.38
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 15.29
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 23.09
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 24.48
+             CAPE using virtual temperature: 0.00
+Precipitable water [mm] for entire sounding: 21.34
